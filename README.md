@@ -1,24 +1,24 @@
 # Hi, I'm Akash Gupta! 👋
+### Frontend Developer | SEO Specialist | CSE Student (2022-2026)
 
-[cite_start]I am a **Frontend Developer** and **CSE Student (2022-2026)** with a strong focus on building responsive, SEO-optimized web applications[cite: 1, 5, 25, 27]. [cite_start]I specialize in the React ecosystem and performance enhancement.
+[cite_start]I build responsive, performance-driven web applications with a focus on seamless user experiences. 
 
-### 🚀 Quick Overview
-- [cite_start]🛠️ **Current Project:** Lead Developer at **Skycart.xyz**, a full-stack e-commerce marketplace[cite: 12, 13].
-- [cite_start]🎓 **Education:** Pursuing B.Tech in Computer Science Engineering[cite: 25].
-- [cite_start]💼 **Experience:** Software Development Intern at Crystaltech Services and former SEO Intern at ScaleDigiHub[cite: 9, 10, 14].
-- [cite_start]🏆 **Achievement:** Participant in **Smart India Hackathon (SIH 2025)**[cite: 34].
+---
 
-### 💻 Technical Stack
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Frontend** | [cite_start]React, Next.js, JavaScript, Tailwind CSS, HTML/CSS [cite: 8] |
-| **Backend** | [cite_start]Node.js, Express.js, MongoDB, SQL [cite: 8] |
-| **Other** | [cite_start]C/C++, Python, Laravel, Technical Writing, SEO Optimization [cite: 8, 13, 15] |
+### 🚀 Tech Stack
+![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📊 GitHub Stats
-![Akash's Stats](https://github-readme-stats.vercel.app/api?username=imskygupta&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imskygupta&layout=compact&theme=dark)
+### 📊 My GitHub Stats
+![Akash's Stats](https://github-readme-stats.vercel.app/api?username=imskygupta&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imskygupta&layout=compact&theme=radical)
 
-### 📫 Let's Connect
-- [cite_start]📧 Email: samratakash0000@gmail.com [cite: 3]
-- [cite_start]🌐 Portfolio: [skycart.xyz](https://skycart.xyz)
+---
+
+### 💼 What I'm working on:
+- [cite_start]🛒 **Lead Frontend Developer** for [Skycart.xyz](https://skycart.xyz), focusing on SEO and scalable design. [cite: 59, 61]
+- [cite_start]🎥 Developing **Movies Now**, a dynamic React-based platform. [cite: 91, 92]
+- [cite_start]📈 Improving Google Search rankings through technical SEO audits. [cite: 48]
