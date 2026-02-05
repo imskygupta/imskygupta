@@ -1,7 +1,7 @@
 # Hi, I'm Akash Gupta! 👋
 ### Frontend Developer | SEO Specialist | CSE Student (2022-2026)
 
-[cite_start]I build responsive, performance-driven web applications with a focus on seamless user experiences. 
+I build responsive, performance-driven web applications with a focus on seamless user experiences. 
 
 ---
 
@@ -19,6 +19,6 @@
 ---
 
 ### 💼 What I'm working on:
-- [cite_start]🛒 **Lead Frontend Developer** for [Skycart.xyz](https://skycart.xyz), focusing on SEO and scalable design. [cite: 59, 61]
-- [cite_start]🎥 Developing **Movies Now**, a dynamic React-based platform. [cite: 91, 92]
-- [cite_start]📈 Improving Google Search rankings through technical SEO audits. [cite: 48]
+- 🛒 **Lead Frontend Developer** for [Skycart.xyz](https://skycart.xyz), focusing on SEO and scalable design.
+- 🎥 Developing **Movies Now**, a dynamic React-based platform. 
+- 📈 Improving Google Search rankings through technical SEO audits.
